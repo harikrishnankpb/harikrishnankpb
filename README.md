@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harikrishnankpb
 - 👀 I’m interested in python and machine learning
-- 💞️ I’m familiar with python/Django
+- 💞️ I’m familiar with NodeJs,python/Django 
 - 🌱 I’m currently learning reactjs
-- 📫 How to reach me www.linkedin.com/in/harikrishnanpb
+- 📫 How to reach me www.linkedin.com/in/harikrishnankp
 
 <!---
 harikrishnankpb/harikrishnankpb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
