@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @harikrishnankpb
 - 👀 I’m interested in python and machine learning
 - 💞️ I’m familiar with NodeJs,python/Django 
-- 🌱 I’m currently learning reactjs
+<!---
+- 🌱 I’m currently learning 
+--->
 - 📫 How to reach me www.linkedin.com/in/harikrishnankp
 
 <!---
